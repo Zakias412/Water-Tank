@@ -1,0 +1,2 @@
+I wanted to make a first project for a portfolio. This code is effective and clean, containing everything in subroutines and is designed around OOP. In retrospect I could have added comments, but I am not used to coding for others. I also could have looped instead 
+of exiting on minor mistakes, and I need correct parenthesis on some exits. While simple, I see it to be a base introduction to OOP using user inputs, __main__ system and f strings to make it clean and efficient.
